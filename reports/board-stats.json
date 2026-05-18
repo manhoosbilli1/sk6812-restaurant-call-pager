@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "date": "2026-05-18T04:15:30",
+    "generator": "KiCad 10.0.1",
+    "project": "Restaurant Table Server Pager Touch",
+    "board_name": "Restaurant Table Server Pager Touch"
+  },
+  "board": {
+    "has_outline": true,
+    "width": "160.0025 mm",
+    "height": "160.0025 mm",
+    "area": "20105.776 mm²",
+    "front_component_density": "1.77",
+    "back_component_density": "0.00",
+    "front_copper_area": "7968.333 mm²",
+    "back_copper_area": "0.00 mm²",
+    "min_track_clearance": "2147.4836 mm",
+    "min_track_width": "2147.4836 mm",
+    "min_drill_diameter": "2147.4836 mm",
+    "board_thickness": "1.6000 mm",
+    "front_footprint_area": "356.866 mm²",
+    "back_footprint_area": "0.00 mm²",
+    "front_footprint_density": "1.77",
+    "back_footprint_density": "0.00"
+  },
+  "pads": {
+    "through_hole": 0,
+    "smd": 64,
+    "connector": 0,
+    "npth": 0,
+    "castellated": 0,
+    "press_fit": 0
+  },
+  "vias": {
+    "through": 0,
+    "blind": 0,
+    "buried": 0,
+    "micro": 0
+  },
+  "components": {
+    "tht": {
+      "front": 0,
+      "back": 0,
+      "total": 0
+    },
+    "smd": {
+      "front": 16,
+      "back": 0,
+      "total": 16
+    },
+    "unspecified": {
+      "front": 0,
+      "back": 0,
+      "total": 0
+    },
+    "total": {
+      "front": 16,
+      "back": 0,
+      "total": 16
+    }
+  },
+  "drill_holes": []
+}
